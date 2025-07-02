@@ -7,10 +7,10 @@ Model training and evaluation with preprocessing pipelines,
 Interactive web app developed using Streamlit,
 Deployed as a web service on Render.
 
-🚀 Demo
+🚀 Demo:-
 🖥️ Check out the live app:https://laptop-price-predictor-z757.onrender.com
 
-🛠️ Technologies Used
+🛠️ Technologies Used:-
 Python,
 Pandas, NumPy, Scikit-learn,
 Streamlit,
