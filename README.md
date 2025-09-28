@@ -8,8 +8,8 @@ The project includes a complete ML pipeline built using Python, Pandas, NumPy, a
 
 🛠 Skills Demonstrated
 
-This project demonstrates skills in data analysis, feature engineering, and machine learning model development. It also showcases expertise in web application development and cloud deployment using Render, making the model accessible to users online.
+This project demonstrates skills in data analysis, feature engineering, and machine learning model development. It also showcases basics in web application development and cloud deployment using Render, making the model accessible to users online.
 
 🔗 Live Demo
 
-Try the application here: Your Render Link
+Try the application here: https://laptop-price-predictor-kishlay.onrender.com
