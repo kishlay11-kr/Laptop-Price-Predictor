@@ -3,8 +3,10 @@ A collaborative filtering-based machine learning web application that suggests b
 
 🚀 Features
 -Built a complete recommendation pipeline in Python using Pandas, NumPy, and Scikit-learn
+
 -Performed Exploratory Data Analysis (EDA) to understand user and book behavior
--mplemented a collaborative filtering model to predict and recommend books
+
+-implemented a collaborative filtering model to predict and recommend books
 -Developed an interactive web interface using Flask for real-time recommendations
 -Deployed the app as a web service on Render, making it publicly accessible
 
