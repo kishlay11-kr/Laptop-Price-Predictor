@@ -1,17 +1,18 @@
-💻 Laptop Price Predictor
-Laptop Price Predictor is a machine learning web application that estimates laptop prices based on user-selected specifications.
+💻 Book Recommender System 
+A collaborative filtering-based machine learning web application that suggests books to users based on their ratings and preferences.
 
 🚀 Features
-Built a complete ML pipeline in Python using Pandas, NumPy, and Scikit-learn
-Implemented data preprocessing, model training, and evaluation
-Created an interactive web interface with Streamlit for real-time price predictions
-Deployed the app as a web service using Render, making it publicly accessible
+Built a complete recommendation pipeline in Python using Pandas, NumPy, and Scikit-learn
+Performed Exploratory Data Analysis (EDA) to understand user and book behavior
+Implemented a collaborative filtering model to predict and recommend books
+Developed an interactive web interface using Flask for real-time recommendations
+Deployed the app as a web service on Render, making it publicly accessible
 
 🛠 Skills Demonstrated
-End-to-end Machine Learning
-Data preprocessing & model evaluation
-Web application development with Python & Streamlit
+End-to-end Machine Learning & Recommendation Systems
+Data analysis and visualization with Matplotlib & Seaborn
+Web application development with Python & Flask
 Cloud deployment of ML applications
 
 🔗 Live Demo
-Check it out here: https://laptop-price-predictor-kishlay.onrender.com
+Check it out here: https://books-recommender-system-kishlay.onrender.com
