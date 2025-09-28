@@ -1,5 +1,4 @@
 💻 Laptop Price Predictor
-
 Laptop Price Predictor is a machine learning web application that estimates laptop prices based on user-selected specifications.
 
 🚀 Features
