@@ -29,4 +29,4 @@ Cloud Deployment (Render)
 🔗 Live Demo
 
 Check out the live application here:
-👉 Laptop Price Predictor on Render
+👉 https://laptop-price-predictor-kishlay.onrender.com
