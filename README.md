@@ -1,15 +1,32 @@
 💻 Laptop Price Predictor
 
-Laptop Price Predictor is a machine learning web application that estimates laptop prices based on user-selected specifications. Users can input features like brand, RAM, storage, and processor, and get real-time price predictions through an interactive interface.
+Laptop Price Predictor is a machine learning web application that estimates laptop prices based on user-selected specifications. Users can input features such as brand, RAM, storage, and processor, and get real-time price predictions through an interactive web interface.
 
 🚀 Features
 
-The project includes a complete ML pipeline built using Python, Pandas, NumPy, and Scikit-learn. It starts with Exploratory Data Analysis (EDA) to understand data distributions and relationships between features, followed by data preprocessing, model training, and evaluation for accurate predictions. The web interface is developed using Streamlit for easy interaction.
+End-to-end machine learning pipeline built with Python, Pandas, NumPy, and Scikit-learn
+
+Exploratory Data Analysis (EDA) to understand data patterns and feature relationships
+
+Data preprocessing, model training, and evaluation for accurate price predictions
+
+Interactive web interface built with Streamlit for seamless user experience
+
+Deployed on Render for live, cloud-based access
 
 🛠 Skills Demonstrated
 
-This project demonstrates skills in data analysis, feature engineering, and machine learning model development. It also showcases basics in web application development and cloud deployment using Render, making the model accessible to users online.
+Data Cleaning & Exploratory Data Analysis (EDA)
+
+Feature Engineering & Model Development
+
+Machine Learning (Regression)
+
+Web App Development using Streamlit
+
+Cloud Deployment (Render)
 
 🔗 Live Demo
 
-Try the application here: https://laptop-price-predictor-kishlay.onrender.com
+Check out the live application here:
+👉 Laptop Price Predictor on Render
